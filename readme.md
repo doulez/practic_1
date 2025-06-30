@@ -1,9 +1,12 @@
 # H1
-**Bold 
-__Bold
-*Italic
-_Italic
-~~Strikethrough
-~Strikethrough
-**This text is _extremely_ important** 
+**Bold** 
+__Bold__
+*Italic*
+_Italic_
+~~Strikethrough~~
+**This text is _extremely_ important**
+***All bold and italic***
+<sub>subscript</sub>
+<sup>superscript</sup>
+<ins>underline</ins>
 ## H2
