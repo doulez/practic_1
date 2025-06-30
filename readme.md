@@ -1,8 +1,6 @@
 # H1
-**Bold** 
-
-__Bold__
-
+**Bold** \
+__Bold__<br>
 *Italic*
 
 _Italic_
@@ -13,9 +11,9 @@ _Italic_
 
 ***All bold and italic***
 
-<sub>subscript</sub>
+gdsg<sub>subscript</sub>sdgds
 
-<sup>superscript</sup>
+wqeqw<sup>superscript</sup>rqwt
 
 <ins>underline</ins>
 
