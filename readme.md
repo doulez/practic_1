@@ -35,3 +35,15 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 [Contribution guidelines for this project](index.html)
+
+- George Washington
+* John Adams
++ Thomas Jefferson
+
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
