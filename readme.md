@@ -39,6 +39,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 - George Washington
 * John Adams
 + Thomas Jefferson
+@github/support What do you think about these updates?
 
 1. James Madison
 2. James Monroe
@@ -47,3 +48,5 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
+
+Here is a simple footnote[^1].
